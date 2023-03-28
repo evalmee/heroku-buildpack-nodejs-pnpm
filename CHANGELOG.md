@@ -2,6 +2,9 @@
 
 ## main
 
+## v206 (2023-03-28)
+- Fix support of pnpm version locking with PNPM_VERSION
+
 ## v205 (2023-03-13)
 
 - Added node version 18.15.0
